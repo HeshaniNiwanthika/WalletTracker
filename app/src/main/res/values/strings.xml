@@ -1,0 +1,24 @@
+<resources>
+    <string name="about_topic">About</string>
+    <string name="login_topic">Login</string>
+    <string name="OR">or</string>
+    <string name="about_description">Welcome to Wallet Tracker, It\\\'s gives better financial
+        experience With our user-friendly interface and powerful
+        features, keeping track of your money has never been easier.
+        From budgeting and expense tracking to bill reminders and goal setting, Wallet
+        Tracker puts your financial well-being at your fingertips. Take control of your
+        money today and start achieving your financial goals with ease.</string>
+    <string name="create_account">Create Account</string>
+    <string name="accounts">Accounts</string>
+    <string name="loan">Loans</string>
+    <string name="budget">Budget</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="clickable_btn">this a clickable button</string>
+
+
+</resources>
